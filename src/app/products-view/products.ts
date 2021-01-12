@@ -3,4 +3,4 @@ interface products{
     categoria:string;
     cantidad:number;
     
-}
+};
